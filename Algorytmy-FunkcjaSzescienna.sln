@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorytmy-FunkcjaSzescienna", "Algorytmy-FunkcjaSzescienna\Algorytmy-FunkcjaSzescienna.csproj", "{4DFD25F8-388F-4186-87AF-94FCBD681A2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DFD25F8-388F-4186-87AF-94FCBD681A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DFD25F8-388F-4186-87AF-94FCBD681A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DFD25F8-388F-4186-87AF-94FCBD681A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DFD25F8-388F-4186-87AF-94FCBD681A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D228057-C6AE-4623-B117-5A1603746130}
+	EndGlobalSection
+EndGlobal

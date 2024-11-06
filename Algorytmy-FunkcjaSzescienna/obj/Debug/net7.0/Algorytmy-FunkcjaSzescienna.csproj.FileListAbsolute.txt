@@ -1,0 +1,14 @@
+D:\VSProjects\Algorytmy-FunkcjaSzescienna\Algorytmy-FunkcjaSzescienna\bin\Debug\net7.0\Algorytmy-FunkcjaSzescienna.exe
+D:\VSProjects\Algorytmy-FunkcjaSzescienna\Algorytmy-FunkcjaSzescienna\bin\Debug\net7.0\Algorytmy-FunkcjaSzescienna.deps.json
+D:\VSProjects\Algorytmy-FunkcjaSzescienna\Algorytmy-FunkcjaSzescienna\bin\Debug\net7.0\Algorytmy-FunkcjaSzescienna.runtimeconfig.json
+D:\VSProjects\Algorytmy-FunkcjaSzescienna\Algorytmy-FunkcjaSzescienna\bin\Debug\net7.0\Algorytmy-FunkcjaSzescienna.dll
+D:\VSProjects\Algorytmy-FunkcjaSzescienna\Algorytmy-FunkcjaSzescienna\bin\Debug\net7.0\Algorytmy-FunkcjaSzescienna.pdb
+D:\VSProjects\Algorytmy-FunkcjaSzescienna\Algorytmy-FunkcjaSzescienna\obj\Debug\net7.0\Algorytmy-FunkcjaSzescienna.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProjects\Algorytmy-FunkcjaSzescienna\Algorytmy-FunkcjaSzescienna\obj\Debug\net7.0\Algorytmy-FunkcjaSzescienna.AssemblyInfoInputs.cache
+D:\VSProjects\Algorytmy-FunkcjaSzescienna\Algorytmy-FunkcjaSzescienna\obj\Debug\net7.0\Algorytmy-FunkcjaSzescienna.AssemblyInfo.cs
+D:\VSProjects\Algorytmy-FunkcjaSzescienna\Algorytmy-FunkcjaSzescienna\obj\Debug\net7.0\Algorytmy-FunkcjaSzescienna.csproj.CoreCompileInputs.cache
+D:\VSProjects\Algorytmy-FunkcjaSzescienna\Algorytmy-FunkcjaSzescienna\obj\Debug\net7.0\Algorytmy-FunkcjaSzescienna.dll
+D:\VSProjects\Algorytmy-FunkcjaSzescienna\Algorytmy-FunkcjaSzescienna\obj\Debug\net7.0\refint\Algorytmy-FunkcjaSzescienna.dll
+D:\VSProjects\Algorytmy-FunkcjaSzescienna\Algorytmy-FunkcjaSzescienna\obj\Debug\net7.0\Algorytmy-FunkcjaSzescienna.pdb
+D:\VSProjects\Algorytmy-FunkcjaSzescienna\Algorytmy-FunkcjaSzescienna\obj\Debug\net7.0\Algorytmy-FunkcjaSzescienna.genruntimeconfig.cache
+D:\VSProjects\Algorytmy-FunkcjaSzescienna\Algorytmy-FunkcjaSzescienna\obj\Debug\net7.0\ref\Algorytmy-FunkcjaSzescienna.dll
